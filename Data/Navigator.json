@@ -1,0 +1,13 @@
+{
+  "Author": "Alixandria",
+  "Name": "Navigator",
+  "Punchline": "Save multiple map flags for later use!",
+  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+  "InternalName": "Navigator",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "sample",
+    "plugin",
+    "goats"
+  ]
+}

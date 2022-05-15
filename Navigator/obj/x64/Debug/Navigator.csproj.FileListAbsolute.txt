@@ -1,0 +1,12 @@
+E:\Programming Shit\devPlugins external\SamplePlugin\Navigator\bin\x64\Debug\goat.png
+E:\Programming Shit\devPlugins external\SamplePlugin\Navigator\bin\x64\Debug\Navigator.json
+E:\Programming Shit\devPlugins external\SamplePlugin\Navigator\obj\x64\Debug\Navigator.csproj.AssemblyReference.cache
+E:\Programming Shit\devPlugins external\SamplePlugin\Navigator\obj\x64\Debug\Navigator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Shit\devPlugins external\SamplePlugin\Navigator\obj\x64\Debug\Navigator.AssemblyInfoInputs.cache
+E:\Programming Shit\devPlugins external\SamplePlugin\Navigator\obj\x64\Debug\Navigator.AssemblyInfo.cs
+E:\Programming Shit\devPlugins external\SamplePlugin\Navigator\obj\x64\Debug\Navigator.csproj.CoreCompileInputs.cache
+E:\Programming Shit\devPlugins external\SamplePlugin\Navigator\obj\x64\Debug\Navigator.dll
+E:\Programming Shit\devPlugins external\SamplePlugin\Navigator\obj\x64\Debug\Navigator.pdb
+E:\Programming Shit\devPlugins external\SamplePlugin\Navigator\bin\x64\Debug\Navigator.deps.json
+E:\Programming Shit\devPlugins external\SamplePlugin\Navigator\bin\x64\Debug\Navigator.dll
+E:\Programming Shit\devPlugins external\SamplePlugin\Navigator\bin\x64\Debug\Navigator.pdb
