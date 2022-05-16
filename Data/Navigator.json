@@ -2,7 +2,7 @@
   "Author": "Alixandria",
   "Name": "Navigator",
   "Punchline": "Save multiple map flags for later use!",
-  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+  "Description": "Ever get tired of remembering where exactly you flagged a location? Navigator helps you keep track of them! Drop, record, and recall map flags on demand! You can even add notes to help you remember what exactly you were using that flag for. **NOTE**: This will not work in instanced areas outside of Bozja and Eureka",
   "InternalName": "Navigator",
   "ApplicableVersion": "any",
   "Tags": [

@@ -63,7 +63,7 @@ namespace Navigator
             ImGui.SetNextWindowSizeConstraints(new Vector2(375, 330), new Vector2(float.MaxValue, float.MaxValue));
             if (ImGui.Begin("Navigator", ref this.visible, ImGuiWindowFlags.NoScrollbar | ImGuiWindowFlags.NoScrollWithMouse))
             {
-                ImGui.Text($"The random config bool is {this.configuration.SomePropertyToBeSavedAndWithADefault}");
+                ImGui.Text($"Is that toggled?{this.configuration.SomePropertyToBeSavedAndWithADefault}");
 
                 if (ImGui.Button("Show Settings"))
                 {
@@ -72,7 +72,7 @@ namespace Navigator
 
                 ImGui.Spacing();
 
-                ImGui.Text("Have a goat:");
+                ImGui.Text("This is a test of Navigator's settings:");
                 ImGui.Indent(55);
                 ImGui.Image(this.goatImage.ImGuiHandle, new Vector2(this.goatImage.Width, this.goatImage.Height));
                 ImGui.Unindent(55);
@@ -93,7 +93,7 @@ namespace Navigator
             {
                 // can't ref a property, so use a local copy
                 var configValue = this.configuration.SomePropertyToBeSavedAndWithADefault;
-                if (ImGui.Checkbox("Random Config Bool", ref configValue))
+                if (ImGui.Checkbox("Toggled?", ref configValue))
                 {
                     this.configuration.SomePropertyToBeSavedAndWithADefault = configValue;
                     // can save immediately on change, if you don't want to provide a "Save and Close" button

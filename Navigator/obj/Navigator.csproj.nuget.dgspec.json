@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programming Shit\\devPlugins external\\SamplePlugin\\Navigator\\Navigator.csproj": {}
+    "C:\\Users\\maxsd\\RiderProjects\\Navigator\\Navigator\\Navigator.csproj": {}
   },
   "projects": {
-    "E:\\Programming Shit\\devPlugins external\\SamplePlugin\\Navigator\\Navigator.csproj": {
+    "C:\\Users\\maxsd\\RiderProjects\\Navigator\\Navigator\\Navigator.csproj": {
       "version": "0.0.0.1",
       "restore": {
-        "projectUniqueName": "E:\\Programming Shit\\devPlugins external\\SamplePlugin\\Navigator\\Navigator.csproj",
+        "projectUniqueName": "C:\\Users\\maxsd\\RiderProjects\\Navigator\\Navigator\\Navigator.csproj",
         "projectName": "Navigator",
-        "projectPath": "E:\\Programming Shit\\devPlugins external\\SamplePlugin\\Navigator\\Navigator.csproj",
+        "projectPath": "C:\\Users\\maxsd\\RiderProjects\\Navigator\\Navigator\\Navigator.csproj",
         "packagesPath": "C:\\Users\\maxsd\\.nuget\\packages\\",
-        "outputPath": "E:\\Programming Shit\\devPlugins external\\SamplePlugin\\Navigator\\obj\\",
+        "outputPath": "C:\\Users\\maxsd\\RiderProjects\\Navigator\\Navigator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maxsd\\AppData\\Roaming\\NuGet\\NuGet.Config"

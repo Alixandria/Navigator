@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x70wsSwt/owWtVEgyJsG84A1uuGIeWTuILoPC8VNcSKZljC9gmYO+YaI4lv/Tpupi4oeZlhgeWyFNFNBAs7Wsw==",
+  "dgSpecHash": "qF++YqH/0QpUg6YyEDByrtbkIa/d8P4R5SmPsdW3m0HAjCwFvPZfwuh86Nv+WGSlFrgoLI/+wyieqFmsWqVo4g==",
   "success": true,
-  "projectFilePath": "E:\\Programming Shit\\devPlugins external\\SamplePlugin\\Navigator\\Navigator.csproj",
+  "projectFilePath": "C:\\Users\\maxsd\\RiderProjects\\Navigator\\Navigator\\Navigator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maxsd\\.nuget\\packages\\dalamudpackager\\2.1.6\\dalamudpackager.2.1.6.nupkg.sha512",
     "C:\\Users\\maxsd\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
