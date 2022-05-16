@@ -34,7 +34,7 @@
   </PropertyGroup>
 
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x64' ">
-    <OutputPath>E:\Programming Shit\devPlugins external</OutputPath>
+    <OutputPath>E:\Programming Shit\devPlugins external\Navigator</OutputPath>
   </PropertyGroup>
 
   <ItemGroup>
