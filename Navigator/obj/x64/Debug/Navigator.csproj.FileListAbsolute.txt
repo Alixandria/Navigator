@@ -15,8 +15,3 @@ E:\Programming Shit\devPlugins external\goat.png
 E:\Programming Shit\devPlugins external\Navigator.deps.json
 E:\Programming Shit\devPlugins external\Navigator.dll
 E:\Programming Shit\devPlugins external\Navigator.pdb
-E:\Programming Shit\devPlugins external\Navigator\Navigator.json
-E:\Programming Shit\devPlugins external\Navigator\goat.png
-E:\Programming Shit\devPlugins external\Navigator\Navigator.deps.json
-E:\Programming Shit\devPlugins external\Navigator\Navigator.dll
-E:\Programming Shit\devPlugins external\Navigator\Navigator.pdb
